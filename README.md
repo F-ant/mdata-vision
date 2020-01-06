@@ -8,3 +8,5 @@ Les tps sont :
   1. KNN
   1. Les points d'intérêt
   1. Reconnaissance faciale
+
+Les TPs ont été réalisé en binôme durant les deux premières semaines de l'UV MDATA.
