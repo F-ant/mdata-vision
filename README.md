@@ -1,5 +1,7 @@
 # TPs Vision
 
+Binôme : Pierre Montroeul et Antoine Facchini.
+
 Compte rendu de l'ensemble des TPs de vision.
 Les tps sont :
   1. Introduction à OpenCV2
